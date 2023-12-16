@@ -1,0 +1,73 @@
+.navBar{
+    background-color: rgb(45, 44, 44);
+    height: 70px;
+    color: white;
+}
+.section1{
+    height: 400px;
+
+}
+.section2{
+    height: 800px;
+}
+.image1{
+   width: 20vw;
+   height: 40vh;
+   background-image: url(image1.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.image2{
+    width: 20vw;
+    height: 40vh;
+    background-image: url(image3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+ .image3{
+    width: 20vw;
+    height: 40vh;
+    background-image: url(image4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+ .image4{
+    width: 20vw;
+    height: 40vh;
+    background-image: url(image5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+ .image5{
+    width: 20vw;
+    height: 40vh;
+    background-image: url(images.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+ .image6{
+    width: 20vw;
+    height: 40vh;
+    background-image: url(laptop_1.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+ .image7{
+    width: 20vw;
+    height: 40vh;
+    background-image: url(unnamed.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+ .image8{
+    width: 20vw;
+    height: 40vh;
+    background-image: url(unnamed\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+ .image9{
+    width: 20vw;
+    height: 40vh;
+    background-size: cover;
+ }
